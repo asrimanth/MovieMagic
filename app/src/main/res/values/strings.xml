@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Magic</string>
+    <string name="button_login">Login</string>
+    <string name="button_signUp">Sign Up</string>
+    <string name="buttonForgotPassword">Forgot Password? Click Here!</string>
+    <string name="editTextEmail">Enter your email id</string>
+    <string name="editTextPassword">Enter your password</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

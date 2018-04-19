@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "95767532226",
+    "firebase_url": "https://moviemagic-7d0e1.firebaseio.com",
+    "project_id": "moviemagic-7d0e1",
+    "storage_bucket": "moviemagic-7d0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95767532226:android:0704a0690793361c",
+        "android_client_info": {
+          "package_name": "com.example.srimanth.moviemagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95767532226-k7m5uu39lbslden8gv96rbp1nb35njqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.srimanth.moviemagic",
+            "certificate_hash": "52fd481fd3e027075cdf81fd852ef2b2df83f8de"
+          }
+        },
+        {
+          "client_id": "95767532226-gfu1vpf9fd3rmpdb0dgrbd5a66i1m5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUY_feTnpLfZ3X9sjar7mQS-m8oO8Gg8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95767532226-gfu1vpf9fd3rmpdb0dgrbd5a66i1m5to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
